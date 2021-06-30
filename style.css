@@ -1,0 +1,31 @@
+.header{
+    background-color:rgb(24, 9, 9);    
+    display: flex;
+    justify-content: space-between;
+    font-family: monospace;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.bodyImg{
+    background-image: url("bg.jpg");
+    font-family:cursive;
+    border-style: hidden;
+
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-style:groove
+}
+
+h1,h2,h3{
+    color: white;
+}
